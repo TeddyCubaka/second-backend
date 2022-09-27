@@ -1,0 +1,9 @@
+{
+  "name": "second_db",
+  "version": "1.0.0",
+  "description": "it's an exercices",
+  "main": "server.js",
+  "repository": "https://github.com/TeddyCubaka/second-backend.git",
+  "author": "Teddy Cubaka <teddycubaka96@gmail.com>",
+  "license": "MIT"
+}
